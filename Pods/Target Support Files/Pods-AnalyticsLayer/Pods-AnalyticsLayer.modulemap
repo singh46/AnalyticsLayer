@@ -1,0 +1,6 @@
+framework module Pods_AnalyticsLayer {
+  umbrella header "Pods-AnalyticsLayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

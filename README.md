@@ -1,5 +1,5 @@
 # AnalyticsLayer
-Easy to use analytics layer with Google and Mixpanel
+Easy to use analytics layer for Google and Mixpanel in Swift
 
 Good code to quick start Analytics integration in our new or existing swift code.
 Using this small code we can easily integrate with multiple Analytics library without changing much code.
